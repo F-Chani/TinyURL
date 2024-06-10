@@ -35,7 +35,7 @@ The project is developed using Node.js and MongoDB, following the Agile methodol
 1. Clone the project:
 
     ```sh
-    git clone https://github.com/yourusername/tinyurl-project.git
+    git clone https://github.com/F-Chani/tinyurl-project.git
     ```
 
 2. Navigate to the project directory:
@@ -58,7 +58,7 @@ The project is developed using Node.js and MongoDB, following the Agile methodol
 1. Start the local server:
 
     ```sh
-    npm start
+    npm run dev
     ```
 
 2. The server will run at `http://localhost:3000`.
