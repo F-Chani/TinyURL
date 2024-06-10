@@ -35,13 +35,13 @@ The project is developed using Node.js and MongoDB, following the Agile methodol
 1. Clone the project:
 
     ```sh
-    git clone https://github.com/F-Chani/tinyurl-project.git
+    git clone https://github.com/F-Chani/TinyURL.git
     ```
 
 2. Navigate to the project directory:
 
     ```sh
-    cd tinyurl-project
+    cd TinyURL
     ```
 
 3. Install the dependencies:
@@ -51,7 +51,7 @@ The project is developed using Node.js and MongoDB, following the Agile methodol
     ```
 
 4. Connect to the database:
-    - Update the `connectDB.js` file with your database connection details.
+    - Update the `dataBase.js` file with your database connection details.
 
 ## Running the Project
 
